@@ -1,7 +1,7 @@
 # Site
 name: "HealthInnings"
 title: "HealthInnings"
-description: ""
+description: "Let's talk about health."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /
@@ -11,12 +11,12 @@ permalink: /:title/
 
 # Authors
 authors:
-  Kavita:
-    name: Kavita Gupta
-    display_name: Kavita Gupta
+  kav:
+    name: "Kavita Gupta"
+    display_name: "Kavita Gupta"
     gravatar: 
-    email: drkavita3@gmail.com
-    web: https://www.healthinnings.com
+    email: "drkavita3@gmail.com"
+    web: "https://www.healthinnings.com"
     twitter: 
     description: ""
 
