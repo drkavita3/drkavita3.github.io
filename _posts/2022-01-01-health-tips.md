@@ -41,6 +41,7 @@ Include daily for immunity & anti-oxidants:
     - 3-5gms per day (can also be consumed by diabetic under supervision) 
 
 3. **Ginger**: 
-    - keeps body warm, reduces indigestion, prevents cough n cold. 
+    - keeps body warm, reduces indigestion, prevents cough & cold.
     - 1 inch of ginger/day.
+
 ---
