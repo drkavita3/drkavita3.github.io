@@ -1,12 +1,13 @@
 ---
 layout: post
-title:  "Daily Tips"
+title:  "Health Tips"
 author: kavita
 categories: [ health ]
 image: assets/images/pink-salt.jpg
 ---
 
 # Lets make healthy new year's resolution
+
 1. Good morning with nuts
        - have 4 almonds, 2 munkka & 1 walnut (soaked overnight) 
        - antioxidants and controls cholesterol level
@@ -18,13 +19,14 @@ image: assets/images/pink-salt.jpg
      - improves eyesight
      - improves blood circulation, reduces stress and promotes sleep.
 
-
 # Tips for healthy lungs (place of prana - vital forces) 
+
 1. Licorice (mulethi):  Chew a twig of licorice root everyday, it is anti-inflammatory & expectorant.
 2. Pumpkin: Rich source of vitamin c and caretenoids,  makes it a best food for healthy lungs .
 3. Apply cow ghee  in both nostrils at night - 2 drops in each. 
 
 # 3G's  to gain health in  winters
+
 Include daily for immunity & anti-oxidants: 
 1. Ghee: 
     - full of antioxidants, healthy fats , easily digestible,  moisturises dry skin inside out.
