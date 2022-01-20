@@ -85,7 +85,7 @@ Dry digestive system (excess _vata_) disturbs the colon, inhibiting its proper f
 - Boosts satvic nature of mind.
 - Removes toxins from body.
 
-### While fasting: 
+**While fasting**: 
 - Stay hydrated - have lemon water, juices, herbal teas and/or coconut water
 - Have yougurt & smoothies.
 - Have saindha namak (fights harmful bacterias, provide trace minerals).
