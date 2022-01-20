@@ -45,3 +45,54 @@ Include daily for immunity & anti-oxidants:
     - 1 inch of ginger/day.
 
 ---
+
+## Sinusitis 
+Inflammation of sinuses, headache, plugged nose
+1. Add turmeric, pepper & ginger in food.
+2. Put 1-2 drops of mustard oil in nose, twice daily.
+3. Take ginger juice with honey 3-4 times daily.  
+4. Avoid fruits at night.
+
+---
+
+## Benefits of Pumpkin seeds
+1. Promotes healthy cholesterol levels
+   - Have 2 to 3 tablespoons of dry roasted pumpkin seeds daily (without adding any extra salt).
+
+2. Fights Anxiety and Depression
+  - Start your day with a healthy breakfast topped with pumpkin seeds for a boost.
+
+3. Good for Arthritis
+  - Massage the affected area with pumpkin seed oil twice a day for around 10 minutes.
+
+---
+
+## Benefits of Turmeric
+- Good for immunity n have anti-allergic effects.
+- pinch of it in milk or dry roast and have with honey.
+
+---
+
+## Constipation: 
+Dry digestive system (excess _vata_) disturbs the colon, inhibiting its proper functioning.
+- Sprinkle one teaspoon of ground flaxseeds over any meal.
+- Consumption of oil, and hydration helps counter the excess vata.
+- Regular exercise helps you to manage stress, which  improves your digestion.
+
+---
+## Navratra fasting
+- Fasting leads to recycling of dead & old cells.
+- Boosts satvic nature of mind.
+- Removes toxins from body.
+
+### While fasting: 
+- Stay hydrated - have lemon water, juices, herbal teas and/or coconut water
+- Have yougurt & smoothies.
+- Have saindha namak (fights harmful bacterias, provide trace minerals).
+- Avoid fried foods like vrat chips n papad.
+
+---
+
+## Benefits of Mulethi or Yashtimadhu (recommended by AYUSH Dept.)
+- Boosts immunity, keeps respiratory tract healthy , also is antidiabetic. 
+- Take 4tsp decoction of mulethi sticks or 2 tsp powder with lukewarm water once a day.
