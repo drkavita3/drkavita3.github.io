@@ -3,7 +3,7 @@ layout: post
 title:  "Golden Rules for Healthy Lifestyle"
 author: kavita
 categories: [ health ]
-image: assets/images/pink-salt.jpg
+image: assets/images/golden-rules.jpg
 ---
 
 Golden rules to follow for healthy lifestyle:
