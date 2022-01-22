@@ -3,14 +3,16 @@ layout: post
 title:  "Are You Eating the Right Combination?"
 author: Kavita
 categories: [ health ]
-image: assets/images/milk-fish.jpg
+image: assets/images/incompatible-food.jpg
 ---
 
-In the past couple of years, with frequent lockdowns our daily life has been disrupted in every possible way. Our eating habits have also gone through many changes because of these disruptions. Many are trying to eat more healthy food and also cooking at home frequently and trying new combinations. To re-create the taste of your favorite eat-out join, many are trying to club ingredients and try new recipes. But in the process, are we eating the right combination, are we combining our foods correctly? Strange! but it is a fact, which requires more attention.
+In the past couple of years, with frequent lockdowns our daily life has been disrupted in every possible way. Our eating habits have also gone through many changes because of these disruptions. Many are trying to eat more healthy food and also cooking at home frequently and trying new combinations. 
+
+To re-create the taste of your favorite eat-out join, many are trying to club ingredients and try new recipes. But in the process, are we eating the right combination, are we combining our foods correctly? Strange! but it is a fact, which requires more attention.
 
 In *ayurveda*, it is clearly and boldly mentioned that we should avoid *Virudh Ahara* - foods which are incompatible together. Not following which can result in production of toxins or *ama* in our body, consequently reducing our overall immunity.
 
-*Virudh ahar* can be a wrong commination of food in terms of 18 factors described in texts, including - potency, order, quantity, age, metabolic power etc. *Virudh aahar* can slow down our metabolism, cause pains and aches in our body, nausea, vomiting etc, depending on how much toxins have accumulated overtime.
+*Virudh ahar* can be a wrong commination of food in terms of 18 factors described in texts including - potency, order, quantity, age, metabolic power etc. *Virudh aahar* can slow down our metabolism, cause pains and aches in our body, nausea, vomiting etc, depending on how much toxins have accumulated overtime.
 
 *Ayurveda* has stated many antagonist combinations, some common ones are: 
 
@@ -27,7 +29,7 @@ In *ayurveda*, it is clearly and boldly mentioned that we should avoid *Virudh A
 
 There are numerous such combinations which are described by our *acharyas*, our oldest nutritionists, who advise us to make food thy medicine and not have medicines for eating wrong food.
 
-There is a complete field of science, Trophology, for researching on right combinations of food. It works to determine what kind of fusion food is good for our metabolism and overall health, and which combinations are harmful. Some recommendations are:
+There is a complete field of science, **Trophology**, for researching on right combinations of food. It works to determine what kind of fusion food is good for our metabolism and overall health, and which combinations are harmful. Some recommendations are:
 
 - Proteins should not be mixed with starches or fruits. 
 - Eat fruits alone, do not combine with meals.
